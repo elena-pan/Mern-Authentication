@@ -1,5 +1,7 @@
 # MERN Authentication Boilerplate
 
+![Demo Animation](https://user-images.githubusercontent.com/52430997/85297330-d7954c00-b45f-11ea-9bc0-b7a3065cddaf.gif)
+
 ## Technology Stack - MERN
 * MongoDB and Mongoose
 * Express.js
